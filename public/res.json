@@ -7,6 +7,7 @@
       "projects": "Projects",
       "skills": "Skills",
       "experience": "Experience",
+      "certificates": "Certificates and award",
       "contactme": "Contact Me"
     }
   },
@@ -17,7 +18,7 @@
       "technologies": "React,C#, .NET, Microsoft SQL Server, Azure DevOps , VB.NET"
     },
     {
-      "title": "Build an internal website to use to borrow item in company",
+      "title": "Build an internal website to use for borrow item in company",
       "company": "PTT Digital Solutions Company Limited (PTT Digital)",
       "technologies": "React,C#, .NET, Microsoft SQL Server, Azure DevOps , Docker"
     },
@@ -110,6 +111,17 @@
         "Supported telecom-related system development and testing",
         "Created a web application integrated with the Twitter API to monitor hashtags and mentions related to the company"
       ]
+    }
+  ],
+  "certificates": [
+    {
+      "path": "ASPNET_Core.PNG"
+    },
+    {
+      "path": "pss_cer.jpg"
+    },
+    {
+      "path": "pss_award.jpg"
     }
   ]
 }

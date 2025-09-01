@@ -1,6 +1,6 @@
 {
-  "name": "Gun-anek-portfolio",
-  "homepage": "https://github.com/Gun-anek",
+  "name": "react-portfolio",
+  "homepage": "https://Gun-anek.github.io/react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Gun-anek Siriutbunkajal",
+      "titles": [ "Back-end Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Gun-anek",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/peak.gs",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain"
+        },
+        {
+          "name": "VB.NET",
+          "class": "fas fa-code"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "SQL Server",
+          "class": "devicon-microsoftsqlserver-plain"
+        },
+        {
+          "name": "Postgresql",
+          "class": "devicon-postgresql-plain"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        }
+      ]
+    }
+  }

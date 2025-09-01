@@ -1,0 +1,127 @@
+{
+  "basic_info": {
+    "description_header": "Welcome to my portfolio",
+    "description": "Detail-oriented and passionate Software Developer with 5 years of experience in backend and full stack development. Proficient in designing, developing, and maintaining web and desktop applications using C#.NET and modern technologies. Strong background in API development, system integration, and problem-solving with a track record of performance and achievement.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "certificates": "Certificates and award",
+      "contactme": "Contact Me"
+    }
+  },
+  "projects": [
+    {
+      "title": "Developed a tablet application for agent to sales heath insurance",
+      "company": "Tokio Marine Life Insurance (Thailand) PCL.",
+      "technologies": "React,C#, .NET, Microsoft SQL Server, Azure DevOps , VB.NET"
+    },
+    {
+      "title": "Build an internal website to use for borrow item in company",
+      "company": "PTT Digital Solutions Company Limited (PTT Digital)",
+      "technologies": "React,C#, .NET, Microsoft SQL Server, Azure DevOps , Docker"
+    },
+    {
+      "title": "Build web payment for parking at ONESIAM, ICONSIAM , ICS, CentralWorld, Central Bangna to scan QR code and pay",
+      "company": "PSS GROUP (THAILAND) COMPANY LIMITED.",      
+      "technologies": "HTML, Javascript, CSS, C#, .net core, Microsoft SQL Server"
+    },
+    {
+      "title": "Build a web stamp for parking at ONESIAM, ICONSIAM , ICS, CentralWorld, Central Bangna to discount in web payment",
+      "company": "PSS GROUP (THAILAND) COMPANY LIMITED.",      
+      "technologies": "HTML, Javascript, CSS, C#, .net core, Microsoft SQL Server"
+    },
+    {
+      "title": "Developed a KIOSK for parking payment at True Digial 101 ,Siam Paragon, Central Rama3",
+      "company": "PSS GROUP (THAILAND) COMPANY LIMITED.",      
+      "technologies": "C#, WinsForm, Microsoft SQL Server"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tokio Marine Life Insurance (Outsource)",
+      "title": ".NET C# Developer",
+      "years": "June 2023 – Present",
+      "mainTech": ["C# .NET"],
+      "technologies": [
+        "REST API",
+        "C# .NET",
+        "Entity Framework",
+        "VB.NET",
+        "React",
+        "Microsoft SQL Server"
+      ],
+      "Details": [
+        "Developed and maintained RESTful APIs for mobile apps and web apps",
+        "Improved Windows services and backend performance",
+        "Integrated and debugged web services",
+        "Collaborated on mobile app fixes using React",
+        "Revamp the .NET Framework API by upgrading it to .NET 8"
+      ]
+    },
+    {
+      "company": "PTT Digital Solutions Company Limited (Outsource)",
+      "title": ".NET C# Developer",
+      "years": "April 2022 – May 2023",
+      "mainTech": ["C# .NET"],
+      "technologies": [
+        "REST API",
+        "C# .NET",
+        "Entity Framework",
+        "React",
+        "Microsoft SQL Server"
+      ],
+      "Details": [
+        "Migrated enterprise data via Windows Forms applications",
+        "Fixed and refactored legacy source code",
+        "Built internal web tools using React and .NET 6"
+      ]
+    },
+    {
+      "company": "PSS Group (Thailand) Company Limited",
+      "title": "Software Engineer",
+      "years": "June 2020 – March 2022",
+      "mainTech": ["C#"],
+      "technologies": [
+        "REST API",
+        "C# .NET core",
+        ".NET Framework",
+        "Microsoft SQL Server",
+        "Postgresql",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "Details": [
+        "Built APIs using ASP.NET Core and Windows Applications",
+        "Created payment systems integrating with APIs and KIOSKs",
+        "Created webstamp systems for discount parking",
+        "Recognized with the Outstanding Employee Award"
+      ]
+    },
+    {
+      "company": "LOXLEY Wireless",
+      "title": "Internship",
+      "years": "May 2019",
+      "mainTech": ["HTML"],
+      "technologies": ["HTML", "CSS", "JavaScript", "MySQL"],
+      "Details": [
+        "Supported telecom-related system development and testing",
+        "Created a web application integrated with the Twitter API to monitor hashtags and mentions related to the company"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "path": "ASPNET_Core.PNG"
+    },
+    {
+      "path": "pss_cer.jpg"
+    },
+    {
+      "path": "pss_award.jpg"
+    }
+  ]
+}

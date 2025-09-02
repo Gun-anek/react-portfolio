@@ -19,7 +19,7 @@ function Polaroid({ children }) {
   }, []);
 
   return (
-    <div className={`polaroid${visible ? " visible" : ""}`} ref={ref}>
+    <div className={`polaroidd${visible ? " visible" : ""}`} ref={ref}>
       {children}
     </div>
   );

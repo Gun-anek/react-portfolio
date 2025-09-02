@@ -499,13 +499,13 @@ footer a:focus {
   padding-bottom: 50px;
 }
 
-.polaroid {
+.polaroidd {
   opacity: 0;
   transform: translateY(40px);
   transition: opacity 0.8s ease, transform 0.8s ease;
 }
 
-.polaroid.visible {
+.polaroidd.visible {
   opacity: 1;
   transform: translateY(0);
   animation: bounceIn 0.8s;
